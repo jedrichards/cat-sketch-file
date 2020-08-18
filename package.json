@@ -1,10 +1,14 @@
 {
   "name": "cat-sketch-file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Output Sketch file JSON to stdout",
   "repository": "https://github.com/jedrichards/cat-sketch-file",
   "author": "Jed Richards",
   "license": "MIT",
+  "files": [
+    "bin/index.js",
+    "index.js"
+  ],
   "bin": {
     "cat-sketch-file": "bin/index.js"
   },
