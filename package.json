@@ -1,0 +1,23 @@
+{
+  "name": "cat-sketch-file",
+  "version": "1.0.0",
+  "description": "Output Sketch file JSON to stdout",
+  "repository": "https://github.com/jedrichards/cat-sketch-file",
+  "author": "Jed Richards",
+  "license": "MIT",
+  "bin": {
+    "cat-sketch-file": "bin/index.js"
+  },
+  "private": false,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@sketch-hq/sketch-assistant-utils": "^6.0.0",
+    "meow": "^7.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^3.9.7",
+    "@types/node": "^14.6.0"
+  }
+}
