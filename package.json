@@ -1,6 +1,6 @@
 {
   "name": "cat-sketch-file",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Output Sketch file JSON to stdout",
   "repository": "https://github.com/jedrichards/cat-sketch-file",
   "author": "Jed Richards",
