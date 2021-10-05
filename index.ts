@@ -1,4 +1,4 @@
-import { fromFile } from '@sketch-hq/sketch-assistant-utils'
+import { fromFile } from '@sketch-hq/sketch-file'
 import meow from 'meow'
 import { resolve } from 'path'
 
